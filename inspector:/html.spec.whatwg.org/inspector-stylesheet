@@ -1,0 +1,4 @@
+h2 {}h2,h3,h4,h1 {
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 1000px;
+}
